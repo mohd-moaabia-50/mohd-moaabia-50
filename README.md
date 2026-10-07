@@ -5,5 +5,5 @@
 - 🌱 Working on small projects, growing step by step
 - 🎯 Goal: software developer
 
-🔗 Portfolio: mohd-moaabia-50.github.io
+🔗 Portfolio: https://mohd-moaabia-50.github.io
 💼 LinkedIn: https://www.linkedin.com/in/mohd-moaabia-8baa5b3a7
